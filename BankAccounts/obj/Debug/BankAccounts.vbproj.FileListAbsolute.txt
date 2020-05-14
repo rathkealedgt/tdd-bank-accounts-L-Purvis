@@ -1,0 +1,11 @@
+C:\Users\logie\OneDrive\Documents\GitHub\tdd-bank-accounts-L-Purvis\BankAccounts\bin\Debug\BankAccounts.exe.config
+C:\Users\logie\OneDrive\Documents\GitHub\tdd-bank-accounts-L-Purvis\BankAccounts\bin\Debug\BankAccounts.exe
+C:\Users\logie\OneDrive\Documents\GitHub\tdd-bank-accounts-L-Purvis\BankAccounts\bin\Debug\BankAccounts.pdb
+C:\Users\logie\OneDrive\Documents\GitHub\tdd-bank-accounts-L-Purvis\BankAccounts\bin\Debug\BankAccounts.xml
+C:\Users\logie\OneDrive\Documents\GitHub\tdd-bank-accounts-L-Purvis\BankAccounts\obj\Debug\BankAccounts.vbprojAssemblyReference.cache
+C:\Users\logie\OneDrive\Documents\GitHub\tdd-bank-accounts-L-Purvis\BankAccounts\obj\Debug\BankAccounts.Resources.resources
+C:\Users\logie\OneDrive\Documents\GitHub\tdd-bank-accounts-L-Purvis\BankAccounts\obj\Debug\BankAccounts.vbproj.GenerateResource.cache
+C:\Users\logie\OneDrive\Documents\GitHub\tdd-bank-accounts-L-Purvis\BankAccounts\obj\Debug\BankAccounts.vbproj.CoreCompileInputs.cache
+C:\Users\logie\OneDrive\Documents\GitHub\tdd-bank-accounts-L-Purvis\BankAccounts\obj\Debug\BankAccounts.exe
+C:\Users\logie\OneDrive\Documents\GitHub\tdd-bank-accounts-L-Purvis\BankAccounts\obj\Debug\BankAccounts.xml
+C:\Users\logie\OneDrive\Documents\GitHub\tdd-bank-accounts-L-Purvis\BankAccounts\obj\Debug\BankAccounts.pdb
