@@ -140,7 +140,7 @@ Imports Microsoft.VisualStudio.TestTools.UnitTesting
     End Sub
 
     <TestMethod()> Public Sub TestDeposit()
-        Dim Account1 As BankAccounts.bankaccount = Me.NewAccount
+        Dim Account1 As BankAccounts.bankaccount = Me.NewAccount()
         Dim ExVal As Double = 10343.82 + 700
 
         Dim ActualVal As Double = Account1.deposit(700)
@@ -150,10 +150,10 @@ Imports Microsoft.VisualStudio.TestTools.UnitTesting
     End Sub
 
     <TestMethod()> Public Sub TestWithdrawal()
-        Dim Account1 As BankAccounts.bankaccount = Me.NewAccount
+        Dim Account1 As BankAccounts.bankaccount = Me.NewAccount()
         Dim ExVal As Double = 10343.82 - 700
 
-        Dim ActualVal As Double = Account1.withdrawal(700)
+        Dim ActualVal = Account1.withdrawal(700)
 
         Assert.AreEqual(ExVal, ActualVal)
 

@@ -9,3 +9,4 @@ C:\Users\logie\OneDrive\Documents\GitHub\tdd-bank-accounts-L-Purvis\BankAccounts
 C:\Users\logie\OneDrive\Documents\GitHub\tdd-bank-accounts-L-Purvis\BankAccounts\obj\Debug\BankAccounts.exe
 C:\Users\logie\OneDrive\Documents\GitHub\tdd-bank-accounts-L-Purvis\BankAccounts\obj\Debug\BankAccounts.xml
 C:\Users\logie\OneDrive\Documents\GitHub\tdd-bank-accounts-L-Purvis\BankAccounts\obj\Debug\BankAccounts.pdb
+C:\Users\logie\OneDrive\Documents\GitHub\tdd-bank-accounts-L-Purvis\BankAccounts\obj\Debug\BankAccounts.BankAccForm.resources
